@@ -21,29 +21,29 @@ reverseName(names);
 
 let countries=[
     {
-        "name" : "India",
-        "capital" : "Dehli",
-        "population" : 1000
+        name : "India",
+        capital : "Dehli",
+        population : 1000
     },
     {
-        "name" : "Australia",
-        "capital" : "Canberra",
-        "population" : 1500
+        name : "Australia",
+        capital : "Canberra",
+        population : 1500
     },
     {
-        "name" : "Afghanistan",
-        "capital" : "Kabul",
-        "population" : 3000
+        name : "Afghanistan",
+        capital : "Kabul",
+        population : 3000
     },
     {
-        "name" : "Bangladesh",
-        "capital" : "Dhaka",
-        "population" : 500
+        name : "Bangladesh",
+        capital : "Dhaka",
+        population : 500
     },
     {
-        "name" : "Bhutan",
-        "capital" : "Thimphu",
-        "population" : 3500
+        name : "Bhutan",
+        capital : "Thimphu",
+        population : 3500
     }
 ];
 
